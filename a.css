@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(250, 0, 0);
+    font-size: 40mm;
+    text-align: center;
+}
+body{
+    text-align: left;
+    background-image: url("gus.gif");
+}
+h2{
+    color: indigo;
+    text-align: inherit;
+    text-align: right;
+}
+.clussy{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
